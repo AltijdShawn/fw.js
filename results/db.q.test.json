@@ -1,0 +1,60 @@
+[
+  [
+    "users",
+    [
+      [
+        "_schema",
+        [
+          [
+            "columns",
+            [
+              {
+                "name": "name",
+                "type": "string"
+              },
+              {
+                "name": "age",
+                "type": "number"
+              }
+            ]
+          ],
+          [
+            "createdAt",
+            "2025-02-14T18:55:06.934Z"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "posts",
+    [
+      [
+        "_schema",
+        [
+          [
+            "columns",
+            [
+              {
+                "name": "username",
+                "type": "string"
+              },
+              {
+                "name": "title",
+                "type": "string"
+              },
+              {
+                "name": "content",
+                "type": "string"
+              }
+            ]
+          ],
+          [
+            "createdAt",
+            "2025-02-14T18:55:06.942Z"
+          ]
+        ]
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,130 @@
+[
+  [
+    "users",
+    [
+      [
+        "_schema",
+        [
+          [
+            "columns",
+            [
+              {
+                "name": "name",
+                "type": "string"
+              },
+              {
+                "name": "age",
+                "type": "number"
+              }
+            ]
+          ],
+          [
+            "createdAt",
+            "2025-02-14T18:55:06.934Z"
+          ]
+        ]
+      ],
+      [
+        "records",
+        [
+          [
+            1,
+            {
+              "name": "Amy",
+              "age": 69
+            }
+          ],
+          [
+            2,
+            {
+              "name": "Lily",
+              "age": 19
+            }
+          ],
+          [
+            3,
+            {
+              "name": "John",
+              "age": 25
+            }
+          ],
+          [
+            4,
+            {
+              "name": "Jane",
+              "age": 21
+            }
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "posts",
+    [
+      [
+        "_schema",
+        [
+          [
+            "columns",
+            [
+              {
+                "name": "username",
+                "type": "string"
+              },
+              {
+                "name": "title",
+                "type": "string"
+              },
+              {
+                "name": "content",
+                "type": "string"
+              }
+            ]
+          ],
+          [
+            "createdAt",
+            "2025-02-14T18:55:06.942Z"
+          ]
+        ]
+      ],
+      [
+        "records",
+        [
+          [
+            0,
+            {
+              "username": "Amy",
+              "title": 69,
+              "content": "Amy.69"
+            }
+          ],
+          [
+            1,
+            {
+              "username": "Lily",
+              "title": 19,
+              "content": "Lily.19"
+            }
+          ],
+          [
+            2,
+            {
+              "username": "John",
+              "title": 25,
+              "content": "John.25"
+            }
+          ],
+          [
+            3,
+            {
+              "username": "Jane",
+              "title": 21,
+              "content": "Jane.21"
+            }
+          ]
+        ]
+      ]
+    ]
+  ]
+]

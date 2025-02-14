@@ -1,0 +1,34 @@
+{
+    "version": "2.9.2",
+	"compileOnSave": false,
+    "compilerOptions": {
+        "declaration": true,
+        "moduleResolution": "Node",
+        "module": "UMD",
+        "outDir": "./build",
+        "baseUrl": "./",
+        "lib": [
+            "ESNext",
+            "DOM",
+        ],
+        "types": [
+            "node"
+        ],
+        // "paths": {
+        //     "core": ["./src/types/core.d.ts"]
+        // },
+		"forceConsistentCasingInFileNames": true,
+        "pretty":                 true,
+        "target":                 "ESNext",
+        "noImplicitAny":          false,
+        "sourceMap":              true,
+        "skipLibCheck":           true,
+        "disableSizeLimit":       true,
+    },
+    "include": [
+		"src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

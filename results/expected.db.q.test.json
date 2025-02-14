@@ -1,0 +1,50 @@
+[
+    [
+        "users",
+        [
+            [
+                "_schema",
+                [
+                    [
+                        "columns",
+                        [
+                            {
+                                "name": "name",
+                                "type": "string"
+                            },
+                            {
+                                "name": "age",
+                                "type": "number"
+                            }
+                        ]
+                    ],
+                    [
+                        "createdAt",
+                        "2025-02-13T08:15:58.366Z"
+                    ]
+                ]
+            ],
+            [
+                "records",
+                [
+                    [
+                        "0",
+                        {
+                            "name": "Amy",
+                            "age": 69,
+                            "id": "0"
+                        }
+                    ],
+                    [
+                        "1",
+                        {
+                            "name": "Lily",
+                            "age": 19,
+                            "id": "1"
+                        }
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

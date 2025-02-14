@@ -1,0 +1,64 @@
+[
+  "users",
+  [
+    [
+      "_schema",
+      [
+        [
+          "columns",
+          [
+            {
+              "name": "name",
+              "type": "string"
+            },
+            {
+              "name": "age",
+              "type": "number"
+            }
+          ]
+        ],
+        [
+          "createdAt",
+          "2025-02-14T16:19:18.707Z"
+        ]
+      ]
+    ],
+    [
+      "records",
+      [
+        [
+          1,
+          {
+            "id": 1,
+            "name": "Amber",
+            "age": 18
+          }
+        ],
+        [
+          2,
+          {
+            "name": "Lily",
+            "age": 19,
+            "id": 2
+          }
+        ],
+        [
+          3,
+          {
+            "name": "John",
+            "age": 25,
+            "id": 3
+          }
+        ],
+        [
+          4,
+          {
+            "name": "Jane",
+            "age": 21,
+            "id": 4
+          }
+        ]
+      ]
+    ]
+  ]
+]
